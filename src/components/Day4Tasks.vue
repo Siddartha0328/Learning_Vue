@@ -65,7 +65,6 @@ watch(name, () => {
         <input v-model="name" placeholder="Enter your name" class="save-input" />
         <p class="save-status">{{ saveStatus }}</p>
       </div>
-
     </div>
   </div>
 </template>
